@@ -35,3 +35,8 @@ Histórico de Conversões: Implementar um recurso que permite ao usuário visual
 Testes Automatizados: Desenvolver testes automatizados para garantir a estabilidade e confiabilidade da aplicação.
 
 JavaScript (script.js): Lógica de programação para interação do usuário e chamadas à API de câmbio.
+
+
+# Segue o link para que você tenha acesso a aplicação
+
+https://leandroferreira991.github.io/conversor-de-moedas/
